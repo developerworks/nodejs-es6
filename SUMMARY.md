@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [New Features](new_features.md)
-   * Template Strings
+   * [Template Strings](template_strings.md)
 

@@ -23,3 +23,5 @@ function* name([param[, param[, ... param]]]) {
 **statements**
 
 <p style="text-indent:2em;">组成函数体的语句</p>
+
+## 描述

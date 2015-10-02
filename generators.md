@@ -14,6 +14,12 @@ function* name([param[, param[, ... param]]]) {
 
 **name**
 
-函数名称
+<p style="text-indent:2em;">函数名称</p>
 
+**param**
 
+<p style="text-indent:2em;">传递给函数的参数名称, 一个函数最多可以又255个参数.</p>
+
+**statements**
+
+<p style="text-indent:2em;">组成函数体的语句</p>
